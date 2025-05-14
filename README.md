@@ -87,13 +87,15 @@ $$
 
 ### 🎥 Video
 
-https://user-images.githubusercontent.com/your-username/your-demo-video.mp4  
-*(Replace this link with your uploaded video link)*
+
+👉 [Watch the demo video](Media/Admittance%20in%20xy%20plane.mp4)
+  
+
 
 ### 🖼️ Image
 
-![Heal Robot with FT Sensor](media/FT%20sesor%20mounted%20on%20heal.png)  
-*(Replace this with the link to your uploaded image)*
+![Heal Robot with FT Sensor](Media/FT%20sesor%20mounted%20on%20heal.png)  
+
 
 ---
 
