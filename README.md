@@ -1,4 +1,6 @@
-![FT sesor mounted on heal](https://github.com/user-attachments/assets/693c04f0-8d24-4558-ac6e-fdd1a22ed443)# 🤖 Admittance Control on 6-DOF Heal Robot
+
+
+# 🤖 Admittance Control on 6-DOF Heal Robot
 
 This repository contains the implementation of **Admittance Control** on a custom 6-DOF Heal robot. A **biaxial FUTEK force-torque (FT) sensor** is mounted on the robot's end-effector to measure forces in the X and Y directions. These readings are used to command motion through an admittance control strategy in Cartesian space.
 
@@ -82,7 +84,6 @@ $$
 
 ---
 
-## 📷 Demonstration
 
 ### 🎥 Video
 
@@ -91,7 +92,7 @@ https://user-images.githubusercontent.com/your-username/your-demo-video.mp4
 
 ### 🖼️ Image
 
-![Heal Robot with FT Sensor](https://user-images.githubusercontent.com/your-username/your-image.jpg)  
+![Heal Robot with FT Sensor](images/FT%20sesor%20mounted%20on%20heal.png)  
 *(Replace this with the link to your uploaded image)*
 
 ---
@@ -110,5 +111,7 @@ https://user-images.githubusercontent.com/your-username/your-demo-video.mp4
 ## 📬 Contact
 
 For any questions or contributions, feel free to open an issue or reach out.
+24250080@iitgn.ac.in
+dsamriddhi1@gmail.com
 
-Hari Bol 🙏
+
