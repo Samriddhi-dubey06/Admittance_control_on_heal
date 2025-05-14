@@ -92,7 +92,7 @@ https://user-images.githubusercontent.com/your-username/your-demo-video.mp4
 
 ### 🖼️ Image
 
-![Heal Robot with FT Sensor](images/FT%20sesor%20mounted%20on%20heal.png)  
+![Heal Robot with FT Sensor](media/FT%20sesor%20mounted%20on%20heal.png)  
 *(Replace this with the link to your uploaded image)*
 
 ---
